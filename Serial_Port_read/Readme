@@ -1,0 +1,1 @@
+This folder is for my first QT project, where I read data from temperature sensor based on STM32 microcontroller and plot it in real time with basical GUI.
